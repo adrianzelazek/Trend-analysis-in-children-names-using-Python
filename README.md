@@ -3,7 +3,7 @@
 
 The main goal of this project was to analyze trends in naming children in the USA between 1880 and 1989. Dataset contains 1 048 575 observations as well as 4 variables. The are the following list of variables in the dataset: Name, Year, Gender, Count. This project was developed for the purpose of practicing data analysis and visualization using Python.
 
-##### It is preferred to run/view the project via Jupyter Notebook (.ipynb) than via a browser (HTML). To see the HTML version you first need to download the HTML file and then run it in your browser.
+##### It is preferred to run/view the project via Jupyter Notebook (.ipynb), sometimes it is required to press "Reload" to load the file, than via a browser (HTML). To see the HTML version you first need to download the HTML file and then run it in your browser.
 
 ### Programming language and platform
 * Python - version : 3.7.4
